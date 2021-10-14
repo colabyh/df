@@ -1,0 +1,24 @@
+# Add more or remove these sample requirements
+pandas
+numpy
+opencv-python
+scikit-image
+albumentations
+#decord
+facenet-pytorch
+pretrainedmodels
+#libopencv
+#matplotlib==3.1.2
+#opencv-python-headless
+pandas
+pillow
+wget
+#torch
+#pyyaml
+#scikit-image==0.16.2
+#scikit-learn==0.22.1
+#scikit-video==1.1.11
+#scipy==1.4.1
+#torchsummary==1.5.1
+#torchvision
+#tqdm==4.41.1
